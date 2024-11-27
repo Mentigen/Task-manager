@@ -1,0 +1,10 @@
+{
+    "keywords": {
+        "TODO": 3,
+        "FIXME": 2,
+        "NOTE": 4,
+        "BUG": 1,
+        "IMPORTANT": 1,
+        "Example" : 3
+    }
+}
